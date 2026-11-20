@@ -1,0 +1,21 @@
+Verifique:
+- Conexões entre serviços.
+- Docker file.
+- Terraform
+- Dependências utilizadas no pom
+- Web interativa
+- Queues e Exchanges do rabbitMq
+- Conexão do banco de dados.
+- Subir tudo na máquina e fazer os cenários que o professor pediu para simular.
+- Nomenclaturas
+- Testes unitários
+- Testes de integração
+- Teste com o banco de dados
+- Serviço Parking control em java com spring boot
+- Sem parking-payment mais
+- Serviços que caem subindo automáticamente.
+- Tudo que é pedido no documento esta sendo cumprido.
+- Simulação de EC2 e outras simulações funcionando
+- Função lambda funcionando
+- EventBridge ok
+- S3 configurada.
